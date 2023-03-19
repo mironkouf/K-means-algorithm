@@ -1,1 +1,1 @@
-# MLP-with-3-hidden-layers
+# K-means algorithm
