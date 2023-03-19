@@ -7,4 +7,4 @@ Created the data with python.
 Implementation of K-means algorithm from scratch without libraries.
 
 ## Output ##
-Created the graphs with python for 9 centroids because it is the best fit for the data we created.
+Created the graphs with python for 3,6,9,12 centroids as shown in the report file.
