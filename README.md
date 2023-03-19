@@ -3,7 +3,7 @@
 ## Data ##
 Created the data with python.
 
-## Code ##
+## Tasks ##
 Implementation of K-means algorithm from scratch without libraries.
 
 ## Output ##
